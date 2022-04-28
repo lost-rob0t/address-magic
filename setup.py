@@ -11,6 +11,6 @@ setup(
     description="address parsing",
     long_description=README,
     author="Nsaspy",
-    packages=['address_magic'],
+    py_modules=['address_magic'],
     license="MIT",
     install_requires=["postal"])
